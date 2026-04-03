@@ -7,7 +7,7 @@ This project helps users track their financial activity including income, expens
 
 ## 🚀 Features
 
-### 📊 Dashboard Overview : https://github.com/Biharinavnit/Finance-Dashboard-UI/blob/master/Screenshot%20(245).png
+### 📊 Dashboard Overview :https://finance-dashboard-ui-fqnq.vercel.app/
 
 * Displays **Total Balance, Income, and Expenses**
 * Dynamic calculation from transaction data
